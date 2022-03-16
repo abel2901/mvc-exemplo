@@ -84,3 +84,7 @@ C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\Contos
 C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\abel2\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
